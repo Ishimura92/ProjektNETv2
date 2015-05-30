@@ -1,0 +1,6 @@
+D:\PROGRAMY\Visual Studio Workspace\LabNET01\LabNET01\bin\LabNET01.dll.config
+D:\PROGRAMY\Visual Studio Workspace\LabNET01\LabNET01\bin\LabNET01.dll
+D:\PROGRAMY\Visual Studio Workspace\LabNET01\LabNET01\bin\LabNET01.pdb
+D:\PROGRAMY\Visual Studio Workspace\LabNET01\LabNET01\obj\Debug\LabNET01.csprojResolveAssemblyReference.cache
+D:\PROGRAMY\Visual Studio Workspace\LabNET01\LabNET01\obj\Debug\LabNET01.dll
+D:\PROGRAMY\Visual Studio Workspace\LabNET01\LabNET01\obj\Debug\LabNET01.pdb
